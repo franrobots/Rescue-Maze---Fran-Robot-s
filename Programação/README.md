@@ -12,4 +12,4 @@
 </p>
 
 <p align="center">
-<strong> Print do código utilizado </strong>
+<strong> Código do processamento de imagem </strong>
