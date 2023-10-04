@@ -1,5 +1,5 @@
 # MECÂNICA ⚙️
-- 🔧 Esta pasta é destinada a conteúdos relacionados a **mecânica** do rôbo da equipe [Fran Robot´s](https://github.com/franrobots) utilizado na categoria *Rescue Maze* da Robocup Junior;
+- 🔧 Esta pasta é destinada a conteúdos relacionados a **mecânica** do rôbo da equipe [Fran Robot´s](https://github.com/franrobots) utilizado na categoria *Rescue Maze* da [Robocup Junior](https://www.robocup.org/);
 - 📰 Estão incluídos **documentos** e arquivos em ***CAD*** ([SolidWorks](https://www.solidworks.com/)) do projeto.
 
 ## Resumo 📝
