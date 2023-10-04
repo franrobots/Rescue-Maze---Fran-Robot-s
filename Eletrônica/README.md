@@ -1,6 +1,6 @@
 # Eletrônica ⚡
-- 🔌 Esta pasta é destinada a conteúdos relacionados a **eletrônica** do rôbo da equipe [Fran Robot´s](https://github.com/franrobots) utilizado na categoria *Rescue Maze* da [Robocup Junior](https://www.robocup.org/);
-- 📰 Estão incluídos **documentos** e **esquemáticos** ([EasyEDA](https://easyeda.com/)) do projeto.
+🔌 Esta pasta é destinada a conteúdos relacionados a **eletrônica** do rôbo da equipe [Fran Robot´s](https://github.com/franrobots) utilizado na categoria *Rescue Maze* da [Robocup Junior](https://www.robocup.org/); <br>
+📰 Estão incluídos **documentos** e **esquemáticos** ([EasyEDA](https://easyeda.com/)) do projeto.
 
 
 ## Resumo 📝
