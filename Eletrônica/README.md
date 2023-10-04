@@ -5,4 +5,4 @@
 
 ## Resumo 📝
 > - 💡 A ***engenharia eletrônica*** envolve o desenvolvimento de um robô que **perceba** seu ambiente, tome **decisões** com base nessa percepção e **execute ações** necessárias para cumprir as tarefas da competição.
-> - 📟 Cada componente elétrico desempenha um papel **específico** nesse processo, trabalhando em conjunto para alcançar o **sucesso** na competição.
+>  - 📟 Cada componente elétrico desempenha um papel **específico** nesse processo, trabalhando em conjunto para alcançar o **sucesso** na competição.
