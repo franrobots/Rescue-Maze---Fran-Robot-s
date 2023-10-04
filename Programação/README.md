@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-<img width="300" alt="Modelo 3D - Robô" src="https://github.com/GuilhermeCanteiro/Rescue-Maze-Fran-Robot-s/assets/96209646/cb41f3ed-8f14-4a18-9ef5-78b85d27ac86">
+<img width="300" alt="Modelo 3D - Robô" src="https://github.com/franrobots/Rescue-Maze-Fran-Robot-s/assets/145154175/2943ba84-cc19-4fc1-b662-9314ca234250">
 </p>
 
 <p align="center">
