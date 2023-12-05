@@ -1,5 +1,5 @@
 # Electronics ⚡
-🔌 This folder is intended for content related to the **electronics** of the team's robot. [Fran Robots](https://github.com/franrobots) utilizado na categoria *Rescue Maze* da [Robocup Junior](https://www.robocup.org/); <br>
+🔌 This folder is intended for content related to the **electronics** of the team's robot. [Fran Robots](https://github.com/franrobots) Fran Robot's used this in the Rescue Maze category of [Robocup Junior](https://www.robocup.org/); <br>
 📰 This folder includes documents and schematics ([EasyEDA](https://easyeda.com/)) of the project.
 
 
