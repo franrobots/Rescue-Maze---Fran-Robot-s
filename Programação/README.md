@@ -1,10 +1,10 @@
-# Programação 💻
-👾 Esta pasta é destinada a conteúdos relacionados a **programação** do robô da equipe [Fran Robot'](https://github.com/franrobots) utilizado na categoria *Rescue Maze* da [Robocup Junior](https://www.robocup.org/); <br>
-⌨️ Estão incluídos os **documentos**, **fotos** e **códigos** utilizados.
+# Programming 💻
+👾 This folder is intended for content related to the programming of the team's robot [Fran Robot'](https://github.com/franrobots) used in the Rescue Maze category at [Robocup Junior](https://www.robocup.org/); <br>
+⌨️ Included are the **documents**, **photos**, and **code** used.
 
 ## Resumo 💾
-> 📷 A programação utiliza de **C++** para controlar a **movimentação** do robô e de **Python** para **processar imagens** em uma Raspberry Pi. <br>
-> 📺 Não recorremos a inteligências artificiais, **construímos** toda a arquitetura com o auxílio do **OpenCV**, uma biblioteca de código aberto que permite a **manipulação de imagens** em tempo real.
+> 📷 The programming uses **C++** to control the robot's **movement** and Python to **process images** on a Raspberry Pi. <br>
+> 📺 We didn't resort to artificial intelligence, we built the entire architecture with the help of **OpenCV**, an open-source library that enables real-time **image manipulation**.
 
 <br>
 <p align="center">
@@ -12,4 +12,4 @@
 </p>
 
 <p align="center">
-<strong> Código do processamento de imagem </strong>
+<strong> Image processing code </strong>
