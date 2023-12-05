@@ -1,11 +1,11 @@
-# Eletrônica ⚡
-🔌 Esta pasta é destinada a conteúdos relacionados a **eletrônica** do rôbo da equipe [Fran Robot´s](https://github.com/franrobots) utilizado na categoria *Rescue Maze* da [Robocup Junior](https://www.robocup.org/); <br>
-📰 Estão incluídos **documentos** e **esquemáticos** ([EasyEDA](https://easyeda.com/)) do projeto.
+# Electronics ⚡
+🔌 This folder is intended for content related to the **electronics** of the team's robot. [Fran Robots](https://github.com/franrobots) utilizado na categoria *Rescue Maze* da [Robocup Junior](https://www.robocup.org/); <br>
+📰 This folder includes documents and schematics ([EasyEDA](https://easyeda.com/)) of the project.
 
 
-## Resumo 📝
-> 💡 A ***engenharia eletrônica*** envolve o desenvolvimento de um robô que **perceba** seu ambiente, tome **decisões** com base nessa percepção e **execute ações** necessárias para cumprir as tarefas da competição. <br>
->   📟 Cada componente elétrico desempenha um papel **específico** nesse processo, trabalhando em conjunto para alcançar o **sucesso** na competição.
+## Abstract 📝
+> 💡 ***Electronic engineering*** involves developing a robot that **perceives** its environment, makes **decisions** based on that perception, and **executes actions** necessary to complete the competition tasks. <br>
+> 📟 Each electrical component plays a **specific** role in this process, working together to achieve **success** in the competition.
 <br>
 
 <p align="center">
@@ -13,4 +13,4 @@
 </p>
 
 <p align="center">
-<strong> Esquemático da <i> Placa Mãe </i> utilizada </strong>
+<strong> <i> Motherboard </i>  Schematic </strong>
