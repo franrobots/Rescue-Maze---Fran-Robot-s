@@ -1,5 +1,5 @@
 # Programming 💻
-👾 This folder is intended for content related to the programming of the team's robot [Fran Robot'](https://github.com/franrobots) used in the Rescue Maze category at [Robocup Junior](https://www.robocup.org/); <br>
+👾 This folder is intended for content related to the programming of the team's robot [Fran Robots](https://github.com/franrobots) used in the Rescue Maze category at [Robocup Junior](https://www.robocup.org/); <br>
 ⌨️ Included are the **documents**, **photos**, and **code** used.
 
 ## Resumo 💾
