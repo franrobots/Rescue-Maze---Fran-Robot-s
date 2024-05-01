@@ -1,6 +1,6 @@
 # Fran Robot´s - Rescue Maze 🚥
 🌎 Ready to face the thrilling challenges in the competition Rescue Maze from [Robocup Junior](https://www.robocup.org/)! <br>
-📑 This repository is dedicated to the **organization** and **centralization** of documents and photos related to the Rescue Maze 2023/2024 competition. 
+📑 This repository is dedicated to the **organization** and **centralization** of documents and photos related to the national phase of the 2023 competition, which occurred in Salvador, Brazil.
 
 <br>
 <p align="center">
