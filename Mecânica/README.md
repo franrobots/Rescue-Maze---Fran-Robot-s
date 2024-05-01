@@ -1,5 +1,5 @@
 # MECHANICS ⚙️
-🔧 Robot **mechanics-related** content goes in this folder for the team [Fran Robot´s] (https://github.com/franrobots) utilized in the Rescue Maze category at [Robocup Junior](https://www.robocup.org/); <br>
+🔧 Robot **mechanics-related** content goes in this folder for the team [Fran Robots] (https://github.com/franrobots) utilized in the Rescue Maze category at [Robocup Junior](https://www.robocup.org/); <br>
 📰 **Documents** and **CAD** project files ([SolidWorks](https://www.solidworks.com/)) are included.
 
 ## Resumo 📝
