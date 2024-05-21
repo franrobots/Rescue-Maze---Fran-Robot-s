@@ -1,4 +1,4 @@
-# Fran Robot´s - Rescue Maze 🚥
+# Fran Robots - Rescue Maze 🚥
 🌎 Preparados para enfrentar os emocionantes desafios da competição Rescue Maze, da [Robocup Junior](https://www.robocup.org/)! <br>
 <br>
 📑 Esse repositório é dedicado à organização e centralização dos documentos e fotos relacionado com a competição Rescue Maze dos anos 2023/2024.
